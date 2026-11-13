@@ -8,3 +8,4 @@ Pillow
 requests
 python-dotenv
 zxing-cpp
+arbez
