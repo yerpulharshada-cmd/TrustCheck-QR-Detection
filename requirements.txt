@@ -7,3 +7,4 @@ numpy
 Pillow
 requests
 python-dotenv
+zxing-cpp
